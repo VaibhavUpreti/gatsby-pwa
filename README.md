@@ -1,6 +1,5 @@
 # Gatsby PWA
 
-
 Install dependencies
 
 ```sh
