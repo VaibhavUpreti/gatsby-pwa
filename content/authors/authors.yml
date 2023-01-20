@@ -1,0 +1,10 @@
+- name: Vaibhav Upreti
+  bio: |
+    Oxfords not brogues
+
+  avatar: ./avatars/vaib.jpeg
+  featured: true
+  social:
+    - url: https://www.linkedin.com/in/vaibhav-upreti/
+    - url: https://twitter.com/vaibhav__upreti
+    - url: https://github.com/VaibhavUpreti
