@@ -1,5 +1,6 @@
 module.exports = {
-    siteMetadata: {
+    pathPrefix: "/gatsby-pwa",
+	siteMetadata: {
       title: `VaibhavUpreti`,
       name: `Vaibhav Upreti`,
       siteUrl: `https://vaibhavupreti.tech`,
