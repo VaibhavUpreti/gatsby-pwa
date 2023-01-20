@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+	"start": "react-scripts --openssl-legacy-provider start",
+	"build": "gatsby build",
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"

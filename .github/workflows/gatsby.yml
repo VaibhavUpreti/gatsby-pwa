@@ -55,6 +55,8 @@ jobs:
         with:
           node-version: "18"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
+      - name: Start
+        run: yarn start
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
